@@ -1,12 +1,7 @@
 [user]
 	name = yuanyuan.chen
-	email = yuanyuan.chen@gojek.com
-[url "git@source.golabs.io:"]
- 	insteadOf = https://sum.golang.org/lookup/source.golabs.io/
-	insteadOf = https://source.golabs.io/
+	email = yuanyuan.chen@airwallex.com
 [diff]
   tool = vscode
 [difftool "vscode"]
   cmd = code --wait --diff $LOCAL $REMOTE
-[url "ssh://git@source.golabs.io/"]
-	insteadOf = https://source.golabs.io/
