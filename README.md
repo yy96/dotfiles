@@ -11,7 +11,7 @@ xcode-select --install
 
 Step 2: Clone Your Dotfiles Repository
 
-step 3: Rune installation script
+step 3: Run installation script
 ```
 chmod +x install.sh
 ./install.sh
